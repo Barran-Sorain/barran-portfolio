@@ -2,103 +2,175 @@
   {
     "id": "01",
     "slug": "coffee",
-    "name": "间隙咖啡",
-    "type": "餐饮品牌视觉",
+    "name": "间隙 INTERVAL",
+    "english": "The art of a pause.",
+    "type": "咖啡品牌视觉",
+    "cat": "brand",
     "file": "01-coffee",
-    "color": "#243c32",
-    "desc": "用一杯咖啡的停顿，建立安静、温暖的品牌语气。",
-    "brief": "面向独立咖啡馆午后时段的活动传播。让标题先传达情绪，再由时间与活动名称补充行动信息。",
-    "decision": "深绿与奶油色形成稳定对比。杯子由简洁矢量形状构成，视觉重心落在页面下半部，为大标题留出完整空间。",
-    "use": "主海报 / 门店活动传播",
+    "photo": "coffee",
     "palette": [
-      "#243c32",
-      "#f1e9d9",
-      "#55382b"
-    ]
+      "#14271d",
+      "#e9dfc6",
+      "#a57c4c"
+    ],
+    "ink": "#eee6d6",
+    "desc": "把一杯咖啡的时间，留给自己。",
+    "brief": "围绕午后咖啡时段展开的品牌视觉概念，以静物、光线和留白呈现一种缓慢的生活节奏。",
+    "detail": "深松绿与暖奶油色贯穿海报、横幅和方形传播画面。衬线字形呼应陶器的温润触感，细线与小字号信息保持安静的秩序。",
+    "tags": "品牌主视觉 / 活动海报 / 社交传播",
+    "squareHeadline": [
+      "把时间，",
+      "留给自己。"
+    ],
+    "variants": {
+      "poster": "assets/v2/01-coffee-poster.webp",
+      "wide": "assets/v2/01-coffee-wide.webp",
+      "square": "assets/v2/01-coffee-square.webp"
+    }
   },
   {
     "id": "02",
     "slug": "reading",
-    "name": "把城市读慢一点",
-    "type": "文化活动海报",
+    "name": "字里，城间",
+    "english": "Read between the lines.",
+    "type": "阅读文化视觉",
+    "cat": "culture",
     "file": "02-reading",
-    "color": "#d83e2b",
-    "desc": "以一本展开的书，连接阅读与城市生活。",
-    "brief": "为虚构的周末阅读交换会设计招募海报。目标是让远距离阅读也能快速识别主题。",
-    "decision": "大字号朱红中文标题与纸色底形成鲜明层级。书本的斜向姿态打破版面的静态感，底部保留明确的活动说明。",
-    "use": "文化海报 / 阅读主题活动",
+    "photo": "paper",
     "palette": [
-      "#eee9db",
-      "#d83e2b",
-      "#232321"
-    ]
+      "#0735cb",
+      "#f4f0e6",
+      "#151515"
+    ],
+    "ink": "#f4f0e6",
+    "desc": "从文字的间隙，重新阅读城市。",
+    "brief": "阅读文化活动的视觉概念。折叠的纸张既是书页，也是城市中不断变化的路径与空间。",
+    "detail": "以钴蓝建立鲜明识别，用白色纸雕形成连续的曲面与负空间。大字与克制的活动信息构成远近两种阅读尺度。",
+    "tags": "文化主视觉 / 展览横幅 / 社交海报",
+    "squareHeadline": [
+      "在字里，",
+      "走进城间。"
+    ],
+    "variants": {
+      "poster": "assets/v2/02-reading-poster.webp",
+      "wide": "assets/v2/02-reading-wide.webp",
+      "square": "assets/v2/02-reading-square.webp"
+    }
   },
   {
     "id": "03",
     "slug": "learning",
-    "name": "小小观察家",
-    "type": "教育主题视觉",
+    "name": "微观之森",
+    "english": "A world within a leaf.",
+    "type": "自然教育视觉",
+    "cat": "other",
     "file": "03-learning",
-    "color": "#122e69",
-    "desc": "让孩子从一片叶子开始，练习观察与提问。",
-    "brief": "为儿童自然观察主题课程设计视觉封面。以一个具体问题引入内容，避免让封面变成课程清单。",
-    "decision": "黄绿色底与深蓝文字保持清楚对比。叶片与放大镜回应观察主题，三项观察动作给出直接的课堂切入点。",
-    "use": "课程封面 / 教育活动视觉",
+    "photo": "botanical",
     "palette": [
-      "#dcec9e",
-      "#122e69",
-      "#3d7a4d"
-    ]
+      "#0b1b14",
+      "#d2e2a1",
+      "#e4ead8"
+    ],
+    "ink": "#edf0dc",
+    "desc": "在一片叶子里，看见一座森林。",
+    "brief": "自然观察课程的视觉概念。从叶脉、透光和露珠切入，把观察的起点缩小到一片蕨叶。",
+    "detail": "植物微距与细密的标注节奏，营造自然博物图鉴般的阅读感。轻盈的衬线标题与深色背景，让细节成为视觉中心。",
+    "tags": "课程主视觉 / 知识封面 / 自然主题传播",
+    "squareHeadline": [
+      "越是微小，",
+      "越有世界。"
+    ],
+    "variants": {
+      "poster": "assets/v2/03-learning-poster.webp",
+      "wide": "assets/v2/03-learning-wide.webp",
+      "square": "assets/v2/03-learning-square.webp"
+    }
   },
   {
     "id": "04",
     "slug": "business",
     "name": "FIELDWORK",
-    "type": "商务演示封面",
+    "english": "Shape what comes next.",
+    "type": "策略演示视觉",
+    "cat": "other",
     "file": "04-business",
-    "color": "#172c4a",
-    "desc": "用清楚的标题与稳定的网格，组织项目提案的开场。",
-    "brief": "为虚构的项目提案制作 16:9 演示封面。此阶段展示封面视觉方向，不将其宣称为已经完成的多页模板。",
-    "decision": "深蓝背景、左对齐标题和右侧同心圆共同建立秩序。浅蓝用于辅助信息，橙色中心点成为克制的视觉强调。",
-    "use": "16:9 演示文稿封面",
+    "photo": "metal",
     "palette": [
-      "#172c4a",
-      "#c3d4ff",
-      "#f2aa63"
-    ]
+      "#0441e8",
+      "#c5c8d1",
+      "#ffffff"
+    ],
+    "ink": "#ffffff",
+    "desc": "把未定的可能，塑造成清楚的方向。",
+    "brief": "策略提案演示的视觉概念。流动的金属结构代表变化，明确的文字网格则为变化建立方向。",
+    "detail": "电光蓝、镜面银与紧凑的无衬线大字构成主视觉。纵向封面、横向演示与方形传播各有独立排版，共用一致的视觉语言。",
+    "tags": "演示封面 / 章节视觉 / 品牌传播",
+    "squareHeadline": [
+      "让变化，",
+      "拥有方向。"
+    ],
+    "variants": {
+      "poster": "assets/v2/04-business-poster.webp",
+      "wide": "assets/v2/04-business-wide.webp",
+      "square": "assets/v2/04-business-square.webp"
+    }
   },
   {
     "id": "05",
     "slug": "market",
-    "name": "少一点，刚刚好",
-    "type": "电商选品视觉",
+    "name": "物有其美",
+    "english": "Objects, considered.",
+    "type": "生活方式选品视觉",
+    "cat": "brand",
     "file": "05-market",
-    "color": "#b56842",
-    "desc": "以克制的器物排列，表达简洁的日常选择。",
-    "brief": "为虚构的生活方式选品栏目制作主题海报。以品牌调性与产品轮廓为主，不虚构价格、折扣或商品功效。",
-    "decision": "暖黄底与低饱和器物形成柔和的商业氛围。三种不同高度的容器建立节奏，底部横线分隔产品视觉与主题文字。",
-    "use": "选品栏目 / 电商主题海报",
+    "photo": "objects",
     "palette": [
-      "#eacb62",
-      "#b56842",
-      "#71836e"
-    ]
+      "#eee7d9",
+      "#612e31",
+      "#a79f92"
+    ],
+    "ink": "#4c2728",
+    "desc": "在器物的轮廓里，安放日常。",
+    "brief": "生活方式选品栏目的视觉概念。以陶器、石材、织物与金属构成材质之间的安静对话。",
+    "detail": "暖白底色与酒红文字形成克制的编辑气质。横向版本采用文字与静物分栏，让产品细节与栏目识别同时保持清晰。",
+    "tags": "选品主视觉 / 编辑横幅 / 品牌海报",
+    "squareHeadline": [
+      "让器物，",
+      "回到日常。"
+    ],
+    "variants": {
+      "poster": "assets/v2/05-market-poster.webp",
+      "wide": "assets/v2/05-market-wide.webp",
+      "square": "assets/v2/05-market-square.webp"
+    }
   },
   {
     "id": "06",
     "slug": "walk",
-    "name": "转个弯，遇见日常",
-    "type": "城市活动视觉",
+    "name": "溯光而行",
+    "english": "Follow the light.",
+    "type": "城市建筑活动视觉",
+    "cat": "culture",
     "file": "06-walk",
-    "color": "#293d74",
-    "desc": "用一条弯曲的路线，表现没有标准答案的城市漫步。",
-    "brief": "为虚构城市漫步社群设计活动视觉。保留开放、轻松的语气，不提供未经确认的真实活动时间和地点。",
-    "decision": "蓝橙对比使路线一眼可见。连续曲线从画面外穿入，形成行走感；上方大标题与下方说明保持清楚的阅读顺序。",
-    "use": "活动招募 / 社群传播",
+    "photo": "architecture",
     "palette": [
-      "#293d74",
-      "#f5a655",
-      "#f4efe5"
-    ]
+      "#27221d",
+      "#c39159",
+      "#ece9df"
+    ],
+    "ink": "#f5f0e6",
+    "desc": "沿着光的方向，重新发现城市。",
+    "brief": "城市建筑漫游的活动视觉概念。以旋转楼梯和斜射的日光，表现行走中的空间层次。",
+    "detail": "混凝土的灰褐色、琥珀色光线与极简文字形成对照。纵版强调建筑的向上延伸，横版则突出光线穿过曲面的瞬间。",
+    "tags": "活动主视觉 / 城市文化 / 横幅传播",
+    "squareHeadline": [
+      "循着光，",
+      "读懂空间。"
+    ],
+    "variants": {
+      "poster": "assets/v2/06-walk-poster.webp",
+      "wide": "assets/v2/06-walk-wide.webp",
+      "square": "assets/v2/06-walk-square.webp"
+    }
   }
 ]
