@@ -4,6 +4,8 @@
 
 品牌视觉、文化活动、自然教育、策略演示、生活方式与城市建筑主题的六组概念设计。每组包含纵版主视觉、横向版式与方形传播画面。
 
+[下载完整作品集 PDF](downloads/Barran-Portfolio-2026.pdf)
+
 ## 本地预览
 
 运行 `python -m http.server 8765`，访问 http://localhost:8765 。
